@@ -33,7 +33,7 @@ apis:
   tags: Businesses
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/businesses/master/_listings/angellist/press-press-id-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/businesses/master/_listings/angellist/reviews-get.md
 x-common:
 - type: x-blog
   url: https://blog.angel.co
