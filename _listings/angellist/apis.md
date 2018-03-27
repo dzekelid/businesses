@@ -33,7 +33,7 @@ apis:
   tags: Businesses
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/angellist/likes-like-id-delete.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/angellist/me-get.md
 x-common:
 - type: x-blog
   url: https://blog.angel.co
