@@ -37,15 +37,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/opencorporates/data-id-get.md
-- name: OpenCorporates Placeholder  ID
-  description: nA placeholder is we call something we believe is probably a company
+- name: OpenCorporates Placeholders  ID Statements
+  description: nThis returns the statements associated with a given placeholder
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/OpenCorporates.jpg
   humanURL: https://opencorporates.com/
   baseURL: http:://api.opencorporates.com/v0.4/
   tags: Businesses
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/opencorporates/placeholder-id-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/opencorporates/placeholders-id-statements-get.md
 x-common:
 - type: x-base
   url: https://api.opencorporates.com/
