@@ -37,15 +37,16 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/opencorporates/data-id-get.md
-- name: OpenCorporates Jurisdictions Match
-  description: nThis matches the name of a jurisdiction to the jurisdiction
+- name: OpenCorporates Officers  ID
+  description: nThis returns information on a particular officer (a director or an
+    agent for a company)
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/OpenCorporates.jpg
   humanURL: https://opencorporates.com/
   baseURL: http:://api.opencorporates.com/v0.4/
   tags: Businesses
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/opencorporates/jurisdictions-match-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/opencorporates/officers-id-get.md
 x-common:
 - type: x-base
   url: https://api.opencorporates.com/
