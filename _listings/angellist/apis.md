@@ -34,17 +34,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/angellist/users-user-id-following-ids-get.md
-- name: AngelList Get Startup Roles
-  description: Get Startup Roles
+- name: AngelList Get Status Updates
+  description: Get Status Updates
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/angellist-logo.png
   humanURL: http://angel.co
   baseURL: https://api.angel.co//1/
   tags: Businesses
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/angellist/startup-roles-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/angellist/status-updates-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/angellist/startup-roles-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/angellist/status-updates-get-postman.md
 x-common:
 - type: x-blog
   url: https://blog.angel.co
