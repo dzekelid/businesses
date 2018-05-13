@@ -34,17 +34,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/angellist/users-user-id-following-ids-get.md
-- name: AngelList Get Accreditation
-  description: Pulls the accreditation for a startup and users.
+- name: AngelList Get Comments
+  description: Pulls the comments for given object.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/angellist-logo.png
   humanURL: http://angel.co
   baseURL: https://api.angel.co//1/
   tags: Businesses
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/angellist/accreditation-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/angellist/comments-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/angellist/accreditation-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/angellist/comments-get-postman.md
 x-common:
 - type: x-blog
   url: https://blog.angel.co
