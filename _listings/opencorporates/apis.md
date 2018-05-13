@@ -37,7 +37,37 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/opencorporates/data-id-get.md
+- name: OpenCorporates Industry Codes  Code Scheme ID
+  description: nThis call returns further details about the code_scheme, together
+    with the list of industry codes associated with it
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/OpenCorporates.jpg
+  humanURL: https://opencorporates.com/
+  baseURL: http:://api.opencorporates.com/v0.4/
+  tags: Businesses
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/opencorporates/industry-codes-code-scheme-id-get.md
 x-common:
+- type: x-base
+  url: https://api.opencorporates.com/
+- type: x-blog
+  url: http://blog.opencorporates.com/
+- type: x-blog-rss
+  url: http://blog.opencorporates.com/feed/
+- type: x-developer
+  url: http://api.opencorporates.com/
+- type: x-github
+  url: https://github.com/openc
+- type: x-pricing
+  url: https://opencorporates.com/info/pricing
+- type: x-status
+  url: http://status.opencorporates.com/
+- type: x-terms-of-service
+  url: https://opencorporates.com/info/licence
+- type: x-twitter
+  url: https://twitter.com/opencorporates
+- type: x-website
+  url: https://opencorporates.com/
 - type: x-base
   url: https://api.opencorporates.com/
 - type: x-blog
