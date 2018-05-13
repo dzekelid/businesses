@@ -28,16 +28,15 @@ modified: "2018-05-13"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/opencorporates/apis.md
 specificationVersion: "0.14"
 apis:
-- name: OpenCorporates Account Status
-  description: nThis returns the status of your API Account (this information may
-    also be retrieved at https://OpenCorporates
+- name: OpenCorporates Companies  Jurisdiction Code  Company Number Data
+  description: nThis returns the data held for the given company
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/OpenCorporates.jpg
   humanURL: https://opencorporates.com/
   baseURL: http:://api.opencorporates.com/v0.4/
   tags: Businesses
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/opencorporates/account-status-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/opencorporates/companies-jurisdiction-code-company-number-data-get.md
 x-common:
 - type: x-base
   url: https://api.opencorporates.com/
