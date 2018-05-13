@@ -28,16 +28,15 @@ modified: "2018-05-13"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/opencorporates/apis.md
 specificationVersion: "0.14"
 apis:
-- name: OpenCorporates Corporate Groupings Search
-  description: nThis returns a collection of corporate_groupings whose name matches
-    the given search term (submitted as :q in the query parameters)
+- name: OpenCorporates Data  ID
+  description: nThis returns information on a given datum
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/OpenCorporates.jpg
   humanURL: https://opencorporates.com/
   baseURL: http:://api.opencorporates.com/v0.4/
   tags: Businesses
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/opencorporates/corporate-groupings-search-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/opencorporates/data-id-get.md
 x-common:
 - type: x-base
   url: https://api.opencorporates.com/
