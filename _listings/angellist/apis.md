@@ -34,17 +34,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/angellist/users-user-id-following-ids-get.md
-- name: AngelList Add Like
-  description: Add Like
+- name: AngelList Delete Like
+  description: Delete Like
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/angellist-logo.png
   humanURL: http://angel.co
   baseURL: https://api.angel.co//1/
   tags: Businesses
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/angellist/likes-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/angellist/likes-like-id-delete.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/angellist/likes-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/angellist/likes-like-id-delete-postman.md
 x-common:
 - type: x-blog
   url: https://blog.angel.co
