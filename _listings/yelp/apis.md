@@ -1,0 +1,137 @@
+---
+name: Yelp
+x-slug: yelp
+description: User Reviews and Recommendations of Best Restaurants, Shopping, Nightlife,
+  Food, Entertainment, Things to Do, Services and More at Yelp
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/536-yelp.jpg
+x-kinRank: "9"
+x-alexaRank: "194"
+tags: Businesses
+created: "2018-08-23"
+modified: "2018-08-23"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/yelp/apis.md
+specificationVersion: "0.14"
+apis:
+- name: Yelp
+  x-api-slug: yelp
+  description: yelps-fusion-api-allows-you-to-get-the-best-local-business-information-and-user-reviews-of-over-million-businesses-in-32-countries
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/536-yelp.jpg
+  humanURL: http://yelp.com/engineering
+  baseURL: https://api.yelp.com//v3
+  tags: Local, Places, Business, Stack Network, Stack, Mobile, Marketplace, internet,
+    Publish, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/yelp/businessessearch-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/yelp/businessessearch-get-openapi.md
+- name: Yelp
+  x-api-slug: yelp
+  description: yelps-fusion-api-allows-you-to-get-the-best-local-business-information-and-user-reviews-of-over-million-businesses-in-32-countries
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/536-yelp.jpg
+  humanURL: http://yelp.com/engineering
+  baseURL: https://api.yelp.com//v3
+  tags: Local, Places, Business, Stack Network, Stack, Mobile, Marketplace, internet,
+    Publish, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/yelp/businessessearch-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/yelp/businessessearch-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/yelp/businessesid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/yelp/businessesid-get-openapi.md
+- name: Yelp
+  x-api-slug: yelp
+  description: yelps-fusion-api-allows-you-to-get-the-best-local-business-information-and-user-reviews-of-over-million-businesses-in-32-countries
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/536-yelp.jpg
+  humanURL: http://yelp.com/engineering
+  baseURL: https://api.yelp.com//v3
+  tags: Local, Places, Business, Stack Network, Stack, Mobile, Marketplace, internet,
+    Publish, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/yelp/businessessearch-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/yelp/businessessearch-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/yelp/businessesid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/yelp/businessesid-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/yelp/businessesidreviews-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/yelp/businessesidreviews-get-openapi.md
+- name: Yelp
+  x-api-slug: yelp
+  description: yelps-fusion-api-allows-you-to-get-the-best-local-business-information-and-user-reviews-of-over-million-businesses-in-32-countries
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/536-yelp.jpg
+  humanURL: http://yelp.com/engineering
+  baseURL: https://api.yelp.com//v3
+  tags: Local, Places, Business, Stack Network, Stack, Mobile, Marketplace, internet,
+    Publish, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/yelp/businessessearch-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/yelp/businessessearch-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/yelp/businessesid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/yelp/businessesid-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/yelp/businessesidreviews-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/yelp/businessesidreviews-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/yelp/businessessearchphone-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/yelp/businessessearchphone-get-openapi.md
+- name: Yelp
+  x-api-slug: yelp
+  description: Yelps API program enables you to access trusted Yelp information in
+    real time, such as business listing info, overall business ratings and review
+    counts, deals and recent review excerpts.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/536-yelp.jpg
+  humanURL: http://yelp.com/engineering
+  baseURL: https://api.yelp.com//v3
+  tags: Businesses
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/yelp/openapi.md
+x-common:
+- type: x-website
+  url: http://yelp.com/engineering
+- type: x-api-gallery
+  url: http://yapily.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://yelp.stack.network
+- type: x-base
+  url: http://api.yelp.com
+- type: x-blog
+  url: https://engineeringblog.yelp.com/
+- type: x-blog-rss
+  url: https://engineeringblog.yelp.com/feed.xml
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/yelp
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/yelp
+- type: x-developer
+  url: http://www.yelp.com/developers
+- type: x-github
+  url: https://github.com/Yelp
+- type: x-openapi
+  url: https://github.com/APIs-guru/unofficial_openapi_specs/blob/master/yelp.com/v3/swagger.yaml
+- type: x-twitter
+  url: https://twitter.com/Yelp
+- type: x-twitter
+  url: https://twitter.com/yelpengineering
+- type: x-website
+  url: http://www.yelp.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---
