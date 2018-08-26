@@ -7,44 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-
 x-kinRank: "7"
 x-alexaRank: "385559"
 tags: Businesses
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/dezrez/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Dezrez
-  x-api-slug: dezrez
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/dezrez/apirolelettingsidsettobsigned-put-openapi.md
-- name: Dezrez
-  x-api-slug: dezrez
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/dezrez/apirolelettingsidsettobsigned-put-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/dezrez/apirolelettingsidsettobsigned-put-openapi.md
-- name: Dezrez
-  x-api-slug: dezrez
-  description: Cloud based estate agent software , sales & letting agent software,
-    estate agent website design and property management software - Dezrez  Services
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: Businesses
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/dezrez/openapi.md
+apis: []
 x-common:
 - type: x-github
   url: https://github.com/dezrez

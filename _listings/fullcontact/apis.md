@@ -7,22 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/205-fullco
 x-kinRank: "9"
 x-alexaRank: "49636"
 tags: Businesses
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/fullcontact/apis.md
 specificationVersion: "0.14"
-apis:
-- name: FullContact
-  x-api-slug: fullcontact
-  description: Build a clearer picture of your customers in minutes with our data-focused
-    APIs. Manage your personal or teams contacts with our contact apps.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/205-fullcontact.jpg
-  humanURL: http://fullcontact.com
-  baseURL: https://api.fullcontact.com//
-  tags: Businesses
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/fullcontact/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://freesound.api.gallery.streamdata.io
