@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-squar
 x-kinRank: "9"
 x-alexaRank: "2433"
 tags: Businesses
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/square/apis.md
 specificationVersion: "0.14"
 apis:
@@ -41,6 +41,45 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/square/v1meemployees-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/square/v1meemployees-get-openapi.md
+- name: Square Connect - Provides details for a business's locations, including their
+    IDs.
+  x-api-slug: v1melocations-get
+  description: Provides details for a business's locations, including their IDs.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-square.jpg
+  humanURL: http://square.com
+  baseURL: https://connect.squareup.com//
+  tags: Payments, Credit Cards, Commerce, Stack Network, Financial Services, Mobile,
+    Technology, internet, Payments, Relative Data, Service API, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/square/v1melocations-get-openapi.md
+- name: Square Connect - Provides summary information for all of a business's employee
+    roles.
+  x-api-slug: v1meroles-get
+  description: Provides summary information for all of a business's employee roles.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-square.jpg
+  humanURL: http://square.com
+  baseURL: https://connect.squareup.com//
+  tags: Payments, Credit Cards, Commerce, Stack Network, Financial Services, Mobile,
+    Technology, internet, Payments, Relative Data, Service API, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/square/v1meroles-get-openapi.md
+- name: Square Connect - Provides summary information for all of a business's employee
+    timecards.
+  x-api-slug: v1metimecards-get
+  description: Provides summary information for all of a business's employee timecards.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-square.jpg
+  humanURL: http://square.com
+  baseURL: https://connect.squareup.com//
+  tags: Payments, Credit Cards, Commerce, Stack Network, Financial Services, Mobile,
+    Technology, internet, Payments, Relative Data, Service API, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/square/v1metimecards-get-openapi.md
 - name: Square Connect - Get a business's information.
   x-api-slug: v1me-get
   description: Get a business's information.
@@ -69,6 +108,112 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/square/v1meemployees-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/square/v1meemployees-get-openapi.md
+- name: Square Connect - Provides details for a business's locations, including their
+    IDs.
+  x-api-slug: v1melocations-get
+  description: Provides details for a business's locations, including their IDs.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-square.jpg
+  humanURL: http://square.com
+  baseURL: https://connect.squareup.com//
+  tags: Payments, Credit Cards, Commerce, Stack Network, Financial Services, Mobile,
+    Technology, internet, Payments, Relative Data, Service API, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/square/v1melocations-get-openapi.md
+- name: Square Connect - Provides summary information for all of a business's employee
+    roles.
+  x-api-slug: v1meroles-get
+  description: Provides summary information for all of a business's employee roles.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-square.jpg
+  humanURL: http://square.com
+  baseURL: https://connect.squareup.com//
+  tags: Payments, Credit Cards, Commerce, Stack Network, Financial Services, Mobile,
+    Technology, internet, Payments, Relative Data, Service API, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/square/v1meroles-get-openapi.md
+- name: Square Connect - Provides summary information for all of a business's employee
+    timecards.
+  x-api-slug: v1metimecards-get
+  description: Provides summary information for all of a business's employee timecards.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-square.jpg
+  humanURL: http://square.com
+  baseURL: https://connect.squareup.com//
+  tags: Payments, Credit Cards, Commerce, Stack Network, Financial Services, Mobile,
+    Technology, internet, Payments, Relative Data, Service API, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/square/v1metimecards-get-openapi.md
+- name: Square Connect - Provides summary information for all of a business's employee
+    timecards.
+  x-api-slug: v1metimecards-get
+  description: Provides summary information for all of a business's employee timecards.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-square.jpg
+  humanURL: http://square.com
+  baseURL: https://connect.squareup.com//
+  tags: Payments, Credit Cards, Commerce, Stack Network, Financial Services, Mobile,
+    Technology, internet, Payments, Relative Data, Service API, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/square/v1metimecards-get-openapi.md
+- name: Square Connect - Provides summary information for all of a business's employee
+    roles.
+  x-api-slug: v1meroles-get
+  description: Provides summary information for all of a business's employee roles.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-square.jpg
+  humanURL: http://square.com
+  baseURL: https://connect.squareup.com//
+  tags: Payments, Credit Cards, Commerce, Stack Network, Financial Services, Mobile,
+    Technology, internet, Payments, Relative Data, Service API, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/square/v1meroles-get-openapi.md
+- name: Square Connect - Provides details for a business's locations, including their
+    IDs.
+  x-api-slug: v1melocations-get
+  description: Provides details for a business's locations, including their IDs.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-square.jpg
+  humanURL: http://square.com
+  baseURL: https://connect.squareup.com//
+  tags: Payments, Credit Cards, Commerce, Stack Network, Financial Services, Mobile,
+    Technology, internet, Payments, Relative Data, Service API, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/square/v1melocations-get-openapi.md
+- name: Square Connect - Provides summary information for all of a business's employees.
+  x-api-slug: v1meemployees-get
+  description: Provides summary information for all of a business's employees.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-square.jpg
+  humanURL: http://square.com
+  baseURL: https://connect.squareup.com//
+  tags: Payments, Credit Cards, Commerce, Stack Network, Financial Services, Mobile,
+    Technology, internet, Payments, Relative Data, Service API, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/square/v1meemployees-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/square/v1meemployees-get-openapi.md
+- name: Square Connect - Get a business's information.
+  x-api-slug: v1me-get
+  description: Get a business's information.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-square.jpg
+  humanURL: http://square.com
+  baseURL: https://connect.squareup.com//
+  tags: Payments, Credit Cards, Commerce, Stack Network, Financial Services, Mobile,
+    Technology, internet, Payments, Relative Data, Service API, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/square/v1me-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/businesses/master/_listings/square/v1me-get-openapi.md
 x-common:
 - type: x-website
   url: http://square.com
